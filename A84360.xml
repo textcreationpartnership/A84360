@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. John Eliot, called, doctor of medicine, his last speech and advice to the world, at his suffering, March 9. 1694</title>
+            <author>Eliot, John, d. 1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84360</idno>
+            <idno type="STC">Wing E525</idno>
+            <idno type="STC">ESTC R231484</idno>
+            <idno type="EEBO-CITATION">99897315</idno>
+            <idno type="PROQUEST">99897315</idno>
+            <idno type="VID">135234</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135234)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2483:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. John Eliot, called, doctor of medicine, his last speech and advice to the world, at his suffering, March 9. 1694</title>
+                  <author>Eliot, John, d. 1694.</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by George Mosman, and are to be sold at his shop in the Parliament closs,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>M.DC.XCIV. [1694]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eliot, John, d. 1694 --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135234:1"/>
+            <pb n="1" facs="tcp:135234:1" rendition="simple:additions"/>
+            <head>M<hi rend="sup">R.</hi> JOHN ELIOT, Called, Doctor of <hi>Medicine,</hi> HIS LAST <hi>Speech and Advice</hi> TO THE WORLD, At his Suffering, <hi>March</hi> 9. 1694.</head>
+            <p>TIME will not allow me to give you or the World, a particular Deſcription of my Life; but I ſhall endea<g ref="char:EOLhyphen"/>vour (God aſſiſting me) to give you and the world, a brief Survey of the moſt material parts of it.</p>
+            <p>In the Firſt place, My Parents did moſt carefully, and dili<g ref="char:EOLhyphen"/>gently Educate me at Schools: where I was grounded in the Fundamentals of the Proteſtant Religion. After I had finiſhed my Courſe at Schools, my Father and Mother in Law (my
+<pb n="2" facs="tcp:135234:2"/> own Mother being dead ſome Years before did bring me along with them to
+<hi>Edinburgh,</hi> and put me to the Univerſity; where I continued till I finiſhed my whole Courſe of <hi>Philoſophy;</hi> and it is known to many in the World, that I did improve my Studies to the beſt advantage, as to what could have been judg<g ref="char:EOLhyphen"/>ed external: But at that time (and it is not without Regrate I ſpeak it) I had my own ſecret Faults and privat Debauches; which I covered with all the care imaginable, leſt they might have been brought to my Fathers knowledge, whom then I had a fear to offend: never conſidering that the Eye of the Almigh<g ref="char:EOLhyphen"/>ty was upon me, and that my moſt ſecret intrigues were not hid from Him. After this I proſecuted the Study of
+<hi>Anatomy,</hi> in this Kingdom, And then, to my infallible loſs, I was with<g ref="char:EOLhyphen"/>drawn by evil Company, to act and commit things that were heinous in the ſight of God; and that not privatly, but publik<g ref="char:EOLhyphen"/>ly, as if the Laws both of God and Man, had approven ſuch baſe and unworthy Actions: For then I had begun to throw off the Fear, and Reverence I had always had for my Father (as thinking it a Childiſh thing) and conſequently that Fear and Regard I owed to the great God of Heaven; and ſo gave my ſelf to a more looſe way of living than I had formerly done; which occaſioned great Grief to my Father, and many ſcandalous Reports, whereof ſome I do confeſs and acknowledge (and that with an hearty Sorrow) were too too true; the real commiſſi<g ref="char:EOLhyphen"/>on of them have been the ſource and fountain, from which all I have now met with, hath ſprung.</p>
+            <p>My Father, after many private Rebukes, and pious Exhor<g ref="char:EOLhyphen"/>tations, ſound that nothing could prevail, nor no Argument was of that force, as to make me relinquiſh the Company I then haunted; ſo to prevent farther Evil, he deſigned to ſend me Abroad: Which accordingly he did, where I continued for
+<pb n="3" facs="tcp:135234:2"/> Three Years; in which time my Life was very remarkable, and that upon ſeveral occaſions; which the brevity of time will nor allow me to rehearſe: But the Company I moſt converſed with were a Cabal of People, that went generally under the Notion, of <hi>Witts:</hi> Our ordinary Converſe was Debates of a high Notion, viz <hi>The proving that there was not a God:</hi> The <hi>Irrationali<g ref="char:EOLhyphen"/>ty of the Trinity,</hi> and <hi>Incarnation of our Bleſsed Savior;</hi> And <hi>that the Scriptures were compoſed by a number of aſpiring Brains, who deſigned to make the World ſubject to their capti<g ref="char:EOLhyphen"/>ous Humour;</hi> and to be ſhort, <hi>That Religion was but a Fop<g ref="char:EOLhyphen"/>pry,</hi> and <hi>Religious Perſons a number of Hypocrites and Syco<g ref="char:EOLhyphen"/>phants;</hi> thus was their Humour to expreſs themſelves of what was Divine; but I do not believe that they entertained theſe Thoughts for a Truth, for my own part I never did. In any other Diſcourſe of Natural Things, abſtracting from Divinity, they were moſt rational and pleaſant: But to my Sorrow I am now ſenſible, that the intertaining of ſuch Company, together with my former Sins, and the other Sins I then committed, (which were moſt grievous in the ſight of God) was the reaſon that the Lord tryſted me with a ſignal Misfortune, the Marks whereof are too viſible to the World.</p>
+            <p>After the receiving of this Misfortune, ſo ſoon as Strength could allow me, I came for
+<hi>Scotland;</hi> where I was a conſider<g ref="char:EOLhyphen"/>able time in great Affliction and Trouble, my Father, nor few of my Friends not knowing where I was: During this my Af<g ref="char:EOLhyphen"/>fliction, I had ſome Convictions of Spirit, by looking back upon the Tract and former Courſe of my Life: but, to my great Grief and Shame, I acknowledge, that thoſe Convictions con<g ref="char:EOLhyphen"/>tinued no longer than my Afflictions<hi>:</hi> For at that time the In<g ref="char:EOLhyphen"/>firmity of my Mouth was, by all appearance, perfectly Cured, and that without the leſt blemiſh<hi>:</hi> So that then I began to forget
+<pb n="4" facs="tcp:135234:3"/> the Convictions of Spirit I formerly had, together with the many Vows and Promiſes of Amendement I had made to God during my Affliction, and <hi>returned as the the Dog to the Vomit and the Sow to the wallowing in the Myre.</hi>
+            </p>
+            <p>But I had not many Days continued in this flagitious Courſe of Life, before I received a caſual Stroak upon my Mouth, which rendred me more miſerable than ever; and then I found, to my ſad experience, <hi>That God would not be mocked;</hi> but as <hi>He is Righteous in all His Ways,</hi> ſo <hi>He is Just in all his Diſ<g ref="char:EOLhyphen"/>penſations:</hi> Which made me (by reflecting upon my many broken Vows and Promiſes made to Him) cry out. <hi>Have mercy upon O God! for against Thee, and Thee Only have I ſin<g ref="char:EOLhyphen"/>ned, and done Evil in Thy ſight.</hi> Thir Raptures and Motions of Spirit, did continue during the extremity of my Trouble: but as my Trouble began to be mitigated and aſſwaged, ſo theſe Motions and Raptures of Spirit did likeways gradually ceaſe, which I was not altogether unſenſible of at that time.</p>
+            <p>And fearing leſt God might tryſt me with a farther Afflicti<g ref="char:EOLhyphen"/>on, I bended my Reſolutions to an Married Life, as a Remedy againſt many Inconveniences: This Deſign was in a little time afterwards effectuat. Being Married, I lived a retired Life for ſome Years, wherein I had ſome Reflections and Convicti<g ref="char:EOLhyphen"/>ons upon my former Courſe of Life, but, to my great Sorrow, they were ſhort of what was needful. My Marriage was car<g ref="char:EOLhyphen"/>ried on and done, without the knowledge of my Father, which with other Circumſtances of my Life, was the occaſion of an open Breach betwixt us; but by the Interpoſition of Friends and my Mother in Law (who is a good kind Woman) all Differences were taken away.</p>
+            <p>This being done, my Father and ſome particular Friends to<g ref="char:EOLhyphen"/>gether with my Wife, did daily ſolicite me to take advice anent
+<pb n="5" facs="tcp:135234:3"/> the Curing of my Mouth, which accordingly I did, and in or<g ref="char:EOLhyphen"/>der the e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, came to <hi>Edinburgh,</hi> where I was ſeveral Months under Cure during which time my Wife did viſit me twice. The firſt time I was extreamly Sick, the next time ſhe came; I was pretty well recovered<hi>:</hi> There was nothing paſt betwixt us, but Love and Kindneſs, and in this manner we parted It plea<g ref="char:EOLhyphen"/>ſed God ſhe Conceived with Child at that time: Yet notwith<g ref="char:EOLhyphen"/>ſtanding I have never ſeen her ſince, which is near two Years. In this time I received two Letters from her, wherein ſhe ſig<g ref="char:EOLhyphen"/>nified, ſhe would not Co-habit any longer with me, ſhe gave me no Reaſon for it, neither do I know any ſhe could have ſince our laſt parting: As to the Infirmity of my Mouth ſhe knew I had the ſame ſome Years before I Married her: but the Reaſon I judge is, ſhe has thought that my Cure would be too expenſive and I judge it has been concerted betwixt her and ſome of her Friends, that this ſhe ſhould do, to be a hinderance of her paying the Cure; I ſhall paſs this, and its my deſire to God that he may pardon her Sins, and make her ſenſible of her Error: For ſhe hath been no ſmall Inſtrument in bringing me to this deplora<g ref="char:EOLhyphen"/>ble End, as the ſequel of my Diſcourſe ſhall make more clear.</p>
+            <p>My Father at this time was under Trouble himſelf; beſide I was aſhamed to diſcover to him the Reality of the Matter, that my Wife had ſo Treated me, and my ſo neceſſitous Circum<g ref="char:EOLhyphen"/>ſtances, in regard I had Married without his Conſent. How<g ref="char:EOLhyphen"/>ever by thir Actings of my Wife I was redacted to ſuch Straits and Wants, that I was neceſſitat to apply to ſome of my Friends, whereof the deceaſt Mrs, <hi>Pringle</hi> was one, who Entertained me kindly, and was not wanting, as I thought, in truly com<g ref="char:EOLhyphen"/>miſerating my Condition. But ſhe deſigned another thing at that time<hi>;</hi> which I could not then fathom; the truth of this I find now to my own Ruine.</p>
+            <p>
+               <pb n="6" facs="tcp:135234:4"/> This is the way and manner, I was brought to ingage in this unhappy Buſineſs, for which I now am to ſuffer: How this de<g ref="char:EOLhyphen"/>ſign was carried on, I have ſufficiently declared to the World, eſpecially to Their Majeſties <hi>Advocat</hi> and
+<hi>Solicitor,</hi> and pub<g ref="char:EOLhyphen"/>lickly in the <hi>Criminal Court:</hi> However you ſhall know that I was firſt imployed by the deceaſt Mr. <hi>Nicolſon</hi> and Mrs. <hi>Pringle,</hi> to Poyſon the Wife of the ſaid Mr. <hi>Nicolſon,</hi> which I did undertake to do, and made them likeways believe that I actually did it, but had done it ſo dexterouſly that it would re<g ref="char:EOLhyphen"/>quire ſome time before it had its deſired effect. And I told them it would gradually ſpend her Body, ſo that the World could judge no other, but that ſhe had Died of a Decay. Notwith<g ref="char:EOLhyphen"/>ſtanding all this, I never ſo much as endeavoured the Acquain<g ref="char:EOLhyphen"/>tance of the ſaid Miſtris <hi>Nicolſon,</hi> as ſhe her ſelf hath Deponed.</p>
+            <p>The next thing I was imployed in, was to affix a Deſign of Poyſoning upon Miſtris
+<hi>Nicolſon</hi> and Miſtris <hi>Hamiltoun</hi> her Siſter. The meaning is this, That Miſtris <hi>Nicolſon</hi> and Mi<g ref="char:EOLhyphen"/>ſtris <hi>Hamiltoun</hi> ſhould have deſired me to give them ſuch a quantity of Poyſon, as would Poyſon Mr. <hi>Nicolſon,</hi> this <hi>I</hi> accor<g ref="char:EOLhyphen"/>dingly did at the deſire of Mr. <hi>Nicolſon</hi> and Mrs <hi>Pringle, I</hi> was likeways intreated by both Mr. <hi>Nicolſon</hi> and Miſtris <hi>Pringle</hi> to go along with them to their Majeſties Advocat, where <hi>I</hi> had a formal Story of the pernicious Deſign the two Siſters had a<g ref="char:EOLhyphen"/>gainſt the Life of Mr. <hi>Nicolſon:</hi> Whereupon the ſaid Mr.
+<hi>Nicol<g ref="char:EOLhyphen"/>ſon</hi> conſulted Their Majeſties Advocat, how his Life might be ſecured, and the two Siſters taken Red-hand in their wicked De<g ref="char:EOLhyphen"/>ſign (as he alledged) and accordingly my Lord Advocat drew a Draught of an Receipt, which the Siſters were to give to me Subſcribed before two Witneſſes, and this <hi>I</hi> was to have from the two Siſters, before <hi>I</hi> was to give to them the Poyſon. After we were parted from my Lord Advocat, it was concerted
+<pb n="7" facs="tcp:135234:4"/> amongſt us three, <hi>viz</hi> Mr. <hi>Nicolſon,</hi> Miſtris
+<hi>Pringle</hi> and me how the two Siſters Subſcriptions ſhould be got, and affixed to the Receipt, and Witneſſes procured: Which was done ſome dayes after, in this manner.
+<hi>viz.</hi> Mr. <hi>Nicolſon</hi> brought his Wife's Contract of Marriage to the Houſe of Miſtris <hi>Pringle,</hi> where her Subſcription was counterfeited and affixed to the forged Receipt by the ſaid Mr. <hi>Nicolſon,</hi> Miſtris <hi>Pringle</hi> being preſent; the Subſcription of Mrs. <hi>Hamiltoun</hi> was counterfeited from off a Diſcharge, granted by her to the ſaid Mr. <hi>Nicolſon,</hi> her Name was alſo affixed to the ſorged Receipt by the ſaid Mr <hi>Nicolſon:</hi> This was that which was told me jointly by them both, at the delivering of the Receipt to me: So <hi>I</hi> procured the two Witneſſes to Subſcribe, their Names being filled up in the Body of the ſaid Receipt. I likeways cauſed the Body of the ſaid Receipt to be written by the Wife of one of the Wit<g ref="char:EOLhyphen"/>neſſes, <hi>viz Robert Wiſhart,</hi> and I gave it to the ſaid Mr. <hi>Ni<g ref="char:EOLhyphen"/>colſon,</hi> who gave back the ſame to me again with the Names of the two Siſters affixed to it, and then I procured the Witneſ<g ref="char:EOLhyphen"/>ſes to Subſcribe.</p>
+            <p>This is the naked Truth, as I have formerly declared, and I take God to Witneſs, before Whom ere long I muſt make my Appearance, that I deſigned the Evil of none Living, neither hath there Evil happened to thoſe perſons againſt whom it was deſigned<hi>:</hi> For all my Deſign was to have my Straits &amp; Wants ſupplied, without the prejudice of any perſon.</p>
+            <p>This Buſineſs being the thing for which I muſt now ſuffer Death, I muſt be ſo particular as to let you know, that I was the only perſon that made a perfect Diſcovery of this compli<g ref="char:EOLhyphen"/>cated Affair<hi>;</hi> which my Declarations, before Their Majeſties Advocat and Solicitor, as likeways before the Criminal Judges in publick Court, doth ſufficiently teſtifie.</p>
+            <p>
+               <pb n="8" facs="tcp:135234:5"/> I did in that publick Court make an open Confeſſion and and threw my ſelf at Mercy, I was found Guilty by an Aſſyze, without adducing any other probation, ſave my own Confeſſi<g ref="char:EOLhyphen"/>on, for which I pleaded favour at the Judges Hands; I received ſome: But I expected that the Lords of Their Majeſties Privy Council, upon full Information, would have imitated the Great GOD, <hi>Who delighteth not in the Death of a Sinner, but rather that he ſhould Repent and Live:</hi> For God, Bleſſed for ever, will not Reject a Sinner upon his due acknowledging of his Sins, and throwing himſelf at the Throne of His Mercy: So I hoped that the Lords of Council, as gods on Earth, would have ſhewn Mercy upon my ingenuous Confeſſion, and throw<g ref="char:EOLhyphen"/>ing my ſelf upon their Clemency<hi>;</hi> but the Great GOD, <hi>Whoſe Ways are unſearchable, and paſt finding out,</hi> hath otherways ordered it<hi>;</hi> and ſo I take it from the Hand of God, and not from M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<hi>:</hi> And it is my earneſt deſire, that He may give me a Holy Submiſſion to His Will.</p>
+            <p>Now to the Glory of God, and my great Shame, I have gi<g ref="char:EOLhyphen"/>ven you a ſhort Narrative of my wicked and profligate Life, in which I deſire you may take notice of the many and different ways, the moſt merciful God hath taken, to reclaim me from my Sins and Wickedneſs<hi>:</hi> You may likeways obſerve, the ma<g ref="char:EOLhyphen"/>ny Vows and Promiſes I have made to God, while His afflict<g ref="char:EOLhyphen"/>ing Hand was upon me; and likewayes the ſeveral Convicti<g ref="char:EOLhyphen"/>ons I had; but, as I have ſaid, the Rod of Affliction was no ſooner removed, than my Vows and Promiſes were forgot, and my Convictions ceaſed: But at laſt, by bringing my Body to this Diſgraceful and Untimely End, I hope God in His Mercy hath found out a way to preſerve my Soul from Eternal Death<hi>;</hi> for my Hope is in Chriſt Jeſus<hi>:</hi> And as I be<g ref="char:EOLhyphen"/>lieve in Him (Lord ſtrengthen my weak Belief) ſo I expect by His Blood and Merits to ſee God in Mercy. In all the Afflicti<g ref="char:EOLhyphen"/>ons
+<pb n="9" facs="tcp:135234:5"/> and Troubles I have met with, and what <hi>I</hi> am now tryſted with,
+<hi>I</hi> do from my Heart and Soul acknowledge the Goodneſs and Mercy of God, who, notwithſtanding of my many heinous and aggravating Sins, never drew the Sword of Juſtice againſt me<hi>;</hi> elſe <hi>I</hi> had not only been puniſhed with all temporal Pu<g ref="char:EOLhyphen"/>niſhments, but <hi>I</hi> had, long before this time, been thrown into Eternal Ruine, from which there is no Redemption: So that, <hi>I</hi> hope, the Great GOD will make me a Monument of His Mercy, and not of His Juſtice. <hi>I</hi> earneſtly deſire that all perſons may take narrow inſpection of my Sins, which have brought me to be made a publick Spectacle, and that they may be ear<g ref="char:EOLhyphen"/>neſt with God that He may give them His Reſtraining Grace, to preſerve them from falling into the like<hi>:</hi> For tho' it pleaſed God to deal with me in Mercy, that I am brought to this publick place to be an Example, and a Warning to all Men<hi>;</hi> for it is juſtly to be feared, that after this ſo ſignal a Caveat, if any ſhall commit ſuch like Sins, that God will draw His Sword of Juſtice againſt them, and cut them off in the midſt of their Sins, and throw them into utter Darkneſs: From which, Good Lord deliver us.</p>
+            <p>You are to obſerve, that in the Deſcription of my Life I do particularly mention my being ſingularly guilty of Two Sins. The <hi>First</hi> is, <hi>Diſobedience to my Parents,</hi> which is a Breach of the Firſt Command, in the Second Table of the Law: All of you ſhould know, that there is a Bleſſing that attends the keep<g ref="char:EOLhyphen"/>ing of this Command; but as I have broken it, ſo <hi>I</hi> have depri<g ref="char:EOLhyphen"/>ved my ſelf of the Bleſſing that attends it. But beſides, I deſire that all of you may take notice, that when <hi>I</hi> threw off that Fear and Obedience
+<hi>I</hi> owed to my earthly Father. I likeways threw off that Fear and Regard <hi>I</hi> owed to the Great God: And there<g ref="char:EOLhyphen"/>fore <hi>I</hi> earneſtly intreat all you young People, and that for the
+
+<pb n="10" facs="tcp:135234:6"/> Love of God, <hi>I</hi> deſire you may ſeriouſly conſider what dange<g ref="char:EOLhyphen"/>rous Conſequences attend the breach of this Command.</p>
+            <p>The <hi>Next</hi> is, That <hi>I</hi> intertained Company with a number of Men, who denied the
+<hi>Exiſtency of God, mocked at the Trini<g ref="char:EOLhyphen"/>ty, and Incarnation of our Bleſsed Lord and Saviour,</hi> and told <hi>that the Scriptures were compoſed by a number of aſpiring Brains, who deſigned to ſubject the World to their captious Humors;</hi> and in ſumm, <hi>that Religion was but a Foppery, and religious Perſons, Hypocrites and Sycophants.</hi> The frequent Converſe I had with thoſe debaucht Company, had almoſt ex<g ref="char:EOLhyphen"/>tinguiſhed the true Conception I had of a God; but the only thing that interrupted this dangerous Opinion, was, That from my younger Years I had always private Converſe with God, though imperfectly, it not being with that Sincerity as was re<g ref="char:EOLhyphen"/>quiſite; yet I ſtill payed a certain kind of Homage to that Su<g ref="char:EOLhyphen"/>preme Beeing, and even at that time when I moſt haunted that Company<hi>:</hi> And if at any time I had omitted that Homage I gave to God, I could have no peace of Mind until I had diſchar<g ref="char:EOLhyphen"/>ged my ſelf of that Duty, which was the Onely and Great Mo<g ref="char:EOLhyphen"/>tive which hindred me from intertaining the dangerous Prin<g ref="char:EOLhyphen"/>ciples of theſe Men.</p>
+            <p>Yet notwithſtanding their daring and blaſphemous Diſcour<g ref="char:EOLhyphen"/>ſes, there was one of them who told me, That he had occaſion ſometimes to be alone, but was afraid to continue ſo for any time: For he ſaid, That he <hi>felt ſomething in himſelf</hi> (this is his own Expreſſion) <hi>that did strick him with ſuch terror and hor<g ref="char:EOLhyphen"/>ror, and threw him into ſuch Melancholy Fits, that he was a<g ref="char:EOLhyphen"/>fraid to be by himſelf, and therefore ſought all occaſions of Com<g ref="char:EOLhyphen"/>pany,</hi> This Gentleman was as roaring a Gallant as any the Age produced, but otherways as well accompliſht as moſt Men What may be the Ends of ſuch Men is greatly to be feared; nay,
+<pb n="11" facs="tcp:135234:6"/> even the worſt: For I my ſelf am too evident an Example of the ſame. I do therefore deſire that all here preſent, and to whoſe knowledge this may come, may be earneſt with God, that He may direct them in ſuch a Holy Courſe of Life, as that they may not fall into the Company of ſuch Men, whoſe Prin<g ref="char:EOLhyphen"/>ciples are attended with ſuch dangerous &amp; fatal Conſequences.</p>
+            <p>There is one Thing that doth not a litle trouble me, and that is, The neglecting the taking of the <hi>Sacrament,</hi> which I was never Partaker of, notwithſtanding the falſe and malicious Sto<g ref="char:EOLhyphen"/>ries and Reproaches that paſs on me on that occaſion: And I ſhall aſſure you, that the omiſſion of that Holy Duty has been no ſmall Mean in bringing me to a Scaffold<hi>:</hi> So that as you re<g ref="char:EOLhyphen"/>gard the Eternal Wel-being of your Souls, and deſire to ſhun the Dangers that are before your Eyes, do not ſlight the Op<g ref="char:EOLhyphen"/>portunity of taking the <hi>Holy Sacrament.</hi>
+            </p>
+            <p>There are ſome here preſent and ſome abſent, who have ſpoke moſt falſly and contemptibly of me, for which I forgive them and all Men (as I deſire to be forgiven) yet I muſt tell you, you have not done like Chriſtians: For whatever my Sins have been, you ought in Chriſtianity to have ſpoke of me with Commiſeration and Regrate for my Failings; and you ſhould have conſidered, That <hi>it is the reſtraining Grace of God, and nothing in your ſelves, that hath preſerved you from falling into worſe.</hi> This I ſpeak for your good, do not think I have any Reſentments of what has been ſpoken of this nature.</p>
+            <p>There are likeways many come here to day, rather to Gaze than to take Example<hi>:</hi> But I Charge you and every one of you, in the Name of the Great GOD (before Whom ere many Mo<g ref="char:EOLhyphen"/>ments I muſt make my Appearance) that you ſeriouſly conſi<g ref="char:EOLhyphen"/>der what ye have heard this Day; and if you do otherways, re<g ref="char:EOLhyphen"/>member I tell you, in the Name of the Moſt High, that it will
+<pb n="12" facs="tcp:135234:7"/> ſtand in Judgment againſt you: For I am perſwaded, that God has not only brought me here for a <hi>Puniſhment</hi> of my Sins, but likeways that you and all others may take Warning and <hi>Exam<g ref="char:EOLhyphen"/>ple</hi> by me, and may be Edified by what ye have heard this day, ſo as that it may be a Mean of your Converſion and drawing nearer to God. That this may be the effect of what ye have heard, is my earneſt deſire to God: So that He may be as much Glorified in my Death, as He has been Diſhonoured in my Life. Thus wiſhing the Lord to give you a true Repentance, and ſaving Fath in Chriſt Jeſus, I ſhall conclude with the <hi>Publican</hi> in the Goſpel, <hi>God have Mercy upon me a poor Sinner.</hi>
+            </p>
+            <closer>
+               <signed>John Eliot.</signed>
+            </closer>
+            <postscript>
+               <head>Poſt-ſcript.</head>
+               <p>IN Regard of the wicked Practices of my Life, and that I have had frequent Converſe with debauched Company I think my ſelf obliged (leſt there might be Miſtakes) to give you a brief Account of my Fath, which is this<hi>: I Believe God is; and that in Commiſeration of fallen Man, Heſent the Son of his Love Chriſt Jeſus in to the World, who took upon him Humane Nature: I do believe that he ſubjected himſelf to Death; and by that Sacrifice made Attonement for all thoſe that ſhould ſincerely believe in him: I do alſo believe, that he aroſe again from the Dead, and that he now ſits at the right Hand of God the Father, and that he is making continual Interceſſion for Sin<g ref="char:EOLhyphen"/>nas. I believe that there is a communion of Saints, and that there is a future State: And I believe that God will reward</hi>
+                  <pb n="13" facs="tcp:135234:7"/> 
+                  <hi>the Good and puniſh the Bad: I believe in the Holy Ghoſt, and that there is forgiveneſs of Sins. In ſumm,</hi> I <hi>believe all that is contained in the Apostolick Creed, and on this</hi> I <hi>venture my Salvation:</hi> For by the ſincere believing of this, together with a previous Repentance, I hope to ſee God in Mercy.</p>
+               <p>You all ſee of what importance, this Beliefe is; ſo I intreat you again and again to be earneſt with God to give you a true Re<g ref="char:EOLhyphen"/>pentance (for it is the Gift of God) and then a ſaving Faith in Chriſt Jeſus; except you endeavour this, you can never expect to be partakers of thoſe Eternal Manſions of Bliſs, that are prepared for all thoſe that ſincerely believe in Him.</p>
+               <p>There is one thing I had forgot, Which is, that one of the Witneſſees, <hi>viz</hi> Mr
+<hi>Joſeph Cleland,</hi> denyed his Subſcription in publick Court upon Oath, but I take God to Witneſs I did ſee him Subſcribe Witneſs to the forged Receipt, this I have declared as I am a dying Man, for Exoneration of my Conſcience, and that it may be a mean of his Conviction,</p>
+               <p>I cannot ommit to tell how Mr <hi>Nicolſon</hi> and Miſtris <hi>Pringle</hi> took all poſſible wayes, ſince my coming to priſon to perſwade me to load my ſelf with the whole Guilt, and for this end they gave me innumberable fair promiſes, and Bonds to the value of five thouſand Marks; beſides innumerable other things, And with all told me it was the only way to preſerve their lives and my own. For in me it would be thought no other thing than a pretty invention to ſupply my wants, but in them it would be thought a moſt atrocious and notorious Crime, and that unleſs I took the Guilt upon me they would inevitably periſh. By ſuch like Arguments, I conſent<g ref="char:EOLhyphen"/>ed to their deſire, and accordingly Mr <hi>Nicolſon</hi> and I con<g ref="char:EOLhyphen"/>certed a Counter- Declaration, which I emitted as come only from my ſelf, and inſtigated ſo to do by a remorſe of Conſci<g ref="char:EOLhyphen"/>ence
+<pb n="14" facs="tcp:135234:8"/> (as I pretended, <hi>Lord pardon me for it)</hi> I do publickly declare, the ſaid Declaration to be falſe and an untruth.</p>
+               <p>My friends Kindneſs has been ſo ſingular and ſignal to me on this occaſion, that I cannot paſs it with ſilence: For they have not only taken all lawful means to preſerve my Life, but they have alſo taken all Chriſtian meaſures and methods to pre<g ref="char:EOLhyphen"/>ſerve my Soul, for which I do here publickly intreat the Al<g ref="char:EOLhyphen"/>mighty God to reward them with his choiſeſt Bleſſings here and Eternal Bliſs hereafter.</p>
+               <p>Now I bid you all heartily <hi>Adiew,</hi> and again and again I de<g ref="char:EOLhyphen"/>ſire that you may imprint on your Hearts what you have heard and ſeen this day, which if you do, as I earneſtly deſire, ſo I hope the Great GOD will make it a Mean of your Eternal Good. <hi>Lord remember me in Mercy, for my time draws nigh</hi> So I end with the Pſalmiſt, <hi>Hid not thy face from thy ſer<g ref="char:EOLhyphen"/>vant, for</hi> I <hi>am in trouble; Hear me ſpeedily; draw nigh to my Soul and redeem it, Make hast O</hi> GOD! <hi>to deliver me, make hast to help me O</hi> LORD! <hi>for</hi> I <hi>am poor and needy, make haſt unto me O</hi> GOD! <hi>Thou art my help and my deliverer, O</hi> LORD
+<hi>make no tarrying. Into thy hands</hi> I <hi>commend my Spirit.</hi>
+               </p>
+               <closer>
+                  <signed>John Eliot,</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>George Moſman,</hi> and are to be Sold at his Shop in the Parliament Cloſs. <hi>M.</hi> DC. XCIV.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:135234:8"/>
+            <head>Advertiſement.</head>
+            <p>THe before going Speech was all Written by Mr. <hi>John Eliot</hi> his own Hand, and many Copies thereof Subſcribed by him, before his Execu<g ref="char:EOLhyphen"/>tion: And this Copy was publickly Read upon the Scaffold, in his preſence, and by his Or<g ref="char:EOLhyphen"/>der, and Owned and Acknowledged by him to be True in every Circumſtance, and as ſuch he delivered Subſcribed Copies to ſeverals: And this Copy was ſent to Sir <hi>James Steu<g ref="char:EOLhyphen"/>art,</hi> Their Majeſties Advocate, and printed by Allowance under Written.</p>
+         </div>
+         <div type="allowance">
+            <opener>
+               <dateline>Edinburgh,
+<date>
+                     <hi>The Tenth Day of</hi> March, <hi>One Thouſand; Six Hundred and Ninty Four Years,</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Allows this Speech of</hi> John Eliot <hi>to be Printed.</hi>
+            </p>
+            <closer>
+               <signed>Polwart.</signed>
+               <signed>Ja. Steuart.</signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THat <hi>Francis Spira,</hi> and the Second <hi>Spira,</hi> being a Fear<g ref="char:EOLhyphen"/>ful Relation of <hi>An Atheist'</hi> who Died at <hi>London, De<g ref="char:EOLhyphen"/>cember</hi> 1691 <hi>in</hi> Two Parts<hi>:</hi> Is to be Sold by <hi>George Moſman,</hi> in the <hi>Parliamet Cloſs,</hi> Price 8<hi>ſs.</hi> Bound.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
